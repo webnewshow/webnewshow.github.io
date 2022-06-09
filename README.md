@@ -14,7 +14,7 @@
 
 ### uniapp
 
-- uniapp中地图的使用
+- [uniapp中地图的使用](./vue/uniapp/echarts.md)
 
 ### vite
 
