@@ -29,4 +29,4 @@
 
 ## 面试题
 
-## 个人简历
+## [简历](./public/resume/resume.docx)
