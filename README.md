@@ -13,6 +13,10 @@
 
 ## Vue
 
+- [vue打包vue.config.js说明](./vue/config/index.md)
+
+### 组件
+
 ### uniapp
 
 - [uniapp中地图的使用](./vue/uniapp/echarts.md)
